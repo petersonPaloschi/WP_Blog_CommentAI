@@ -17,7 +17,7 @@ Este projeto foi desenvolvido para gerar comentários com base no título de sua
 
 1. Clone o repositório
 \`\`\`
-git clone https://github.com/seu_usuario/WP_Blog_CommentAI.git
+git clone https://github.com/petersonPaloschi/WP_Blog_CommentAI.git
 \`\`\`
 2. Entre na pasta do repositório
 \`\`\`
