@@ -1,0 +1,4 @@
+selenium
+requests 
+openai
+pywin32
